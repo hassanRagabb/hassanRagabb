@@ -1,4 +1,6 @@
-### Hi there 👋, my name is Hassan Ragab
+### Hi 👋, I'm Hassan Ragab
 
-- I am a huge fan of big data engineering and and problem-solving techniques.
+-🌱 I’m currently learning big data engineering and Data Engineering .
+-📫 How to reach me hassanragab776@gmail.com
 
+### 📄 [🖱️ Click Here to View My CV](https://drive.google.com/drive/folders/1nVxOBbRAO9FLSS__mMwtuANHlEACdlS-?usp=drive_link)
